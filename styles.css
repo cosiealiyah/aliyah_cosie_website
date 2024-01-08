@@ -1,0 +1,39 @@
+* {
+    font-family:'Courier New', Courier, monospace
+}
+img {
+    border-radius: 500px;
+    height: 300px;
+    width: 300px;
+}
+
+.tabs {
+    text-align: center;
+    color: black;
+}
+
+<body style ="background-color:hotpink;">
+
+body{
+    margin: 50px;
+}
+header {
+    font-style: italic;
+}
+figcaption {
+    font-style: italic;
+    font-size:xx-large;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family:fantasy
+    text-align: center;
+}
+
+.aliyah{
+    text-align: center;
+}
