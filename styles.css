@@ -1,4 +1,4 @@
-* {
+body#home-style * {
     font-family:'Courier New', Courier, monospace
 }
 img {
@@ -11,8 +11,6 @@ img {
     text-align: center;
     color: black;
 }
-
-<body style ="background-color:hotpink;">
 
 body{
     margin: 50px;
@@ -34,6 +32,28 @@ h2 {
     text-align: center;
 }
 
+
 .aliyah{
     text-align: center;
+}
+body#about-style * {
+
+    font-family:'Courier New', Courier, monospace
+
+}
+p {
+    font-size:smaller;
+}
+li {
+
+    font-style: italic;
+}
+body#contact-style * {
+
+    font-family:'Courier New', Courier, monospace
+
+}
+body#projects-style * {
+
+    font-family: 'Courier New', Courier, monospace;
 }
